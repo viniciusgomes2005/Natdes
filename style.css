@@ -69,14 +69,6 @@ header {
     display: flex;
     justify-content: center;
 }
-
-.projetos {
-    margin-left: 3.5rem;
-}
-.selecao {
-    margin-left: 3.5rem;
-
-}
 .logo {
     margin-left: 1.5rem;
 }
@@ -90,7 +82,8 @@ header {
     margin-right: 1rem;
 }
 
-.projetos, .selecao {
+.projetos{
+    margin-left: 3.5rem;
     font-size: 120%;
     color:white;
     text-decoration: none;
@@ -128,4 +121,11 @@ button {
     font-size: 1.5rem;
     font-weight: bold;
     letter-spacing: 0.4rem;
+}
+.lucca {
+    width: 15rem;
+    height: 20rem;
+}
+li {
+    margin-bottom: 1rem;
 }
