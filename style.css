@@ -121,5 +121,11 @@ header {
     margin-bottom: 10rem;
 }
 button {
-    
+    background-color: crimson;
+    color:aliceblue;
+    border-color: aliceblue;
+    border-radius: 1.8rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.4rem;
 }
